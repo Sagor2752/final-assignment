@@ -1,0 +1,193 @@
+.banner {
+    width: 1100px;
+    height: 809px;
+}
+
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.btn-primary {
+    color: #FD6E0A;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 15px 35px;
+    height: 64px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    align-items: center;
+    margin-top: 25px;
+
+}
+
+.header .right {
+    float: right;
+    text-align: right;
+    margin-right: 150px;
+
+}
+
+.banner-title {
+    color: #151414;
+    width: 550px;
+
+    font-weight: 700;
+    font-size: 65px;
+
+    left: 845px;
+    top: 216px;
+
+
+}
+
+.banner-description {
+    text-align: right;
+    width: 550px;
+    line-height: 26px;
+
+}
+
+.header {
+    background-image: url("../images/banner/banner3.png");
+    width: 1600px;
+    height: 809px;
+    top: 0px;
+
+
+}
+
+.header .banner-description {
+    text-align: right;
+}
+
+.failure {
+    display: flex;
+    align-items: center;
+    left: 282px;
+    left: 211px;
+
+
+
+}
+
+.failure li {
+    list-style: circle;
+}
+
+.failure-head {
+    margin-left: 100px;
+}
+
+.failure-photo {
+    margin-left: 150px;
+}
+
+.failure-title {
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.failure-description {
+    font-weight: 400;
+    font-size: 16px;
+    left: 862px;
+
+}
+
+.main {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.plan {
+    margin-top: 130px;
+    border-radius: 10px;
+    padding: 130px 150px;
+    text-align: center;
+    width: 1141px;
+    height: 299.96px;
+    left: 230px;
+    top: 1792.3px;
+
+
+}
+
+.plan-info-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.plan-title {
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+}
+
+.plan-info-title {
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.plan-info-subtitle {
+    font-weight: 500;
+    font-size: 25px;
+}
+
+.watch {
+    display: flex;
+    justify-content: center;
+    border-radius: 8px;
+    width: 1600px;
+
+
+}
+
+
+
+.contact {
+    display: flex;
+    gap: 100px;
+    padding: 150px 200px;
+    background: #151414;
+    margin-top: 25px;
+    height: 250px;
+    width: 1230px;
+
+
+}
+
+.contact-title {
+    color: #FFFFFF;
+}
+
+.contact-description {
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    width: 485px;
+    height: 78px;
+    left: 230px;
+    top: 2845.3px;
+}
+
+contact input,
+button {
+    margin-bottom: 24px;
+}
+
+.contact-item {
+
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+
+}
+
+.contact-info {
+    margin-left: 250px;
+}
+
+.contact-type {
+    padding: 10px 10px;
+}
